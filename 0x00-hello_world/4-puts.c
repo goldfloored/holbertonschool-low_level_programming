@@ -1,9 +1,8 @@
-#!/bin/bash
 #include <stdio.h>
 #include <string.h>
-int main(void)
+int main()
 {
         char str1[]="Programming is like building a multilingual puzzle\n";
         puts(str1);
-        return(0);
+        return 0;
 }
