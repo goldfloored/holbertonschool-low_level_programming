@@ -3,7 +3,6 @@
 #include <unistd.h>
 /**
 * main - funcmy talk is cheap
-*
 * Description: no longer it is how longer we are
 * Return: zeros returned success
 */
