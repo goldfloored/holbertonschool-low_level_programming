@@ -1,10 +1,11 @@
 #include <stdio.h>
 #include <sys/syscall.h>
 #include <unistd.h>
-/*
-* main - func
-* Description: thisisnthowitis
-* Return: zeros
+/**
+* main - funcmy talk is cheap
+*
+* Description: no longer it is how longer we are
+* Return: zeros returned success
 */
 int main(void)
 {
