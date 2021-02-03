@@ -4,10 +4,10 @@
 * Return: 0this
 * str func with variable
 */
-int main(void)
+int main()
 {
-	char str1[] = "Programming is like building a multilingual puzzle\n";
+	char Str1[] = "Programming is like building a multilingual puzzle\n";
 
-	puts(str1);
+	puts(Str1);
 	return (0);
 }
