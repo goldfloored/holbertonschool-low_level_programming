@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<string.h>
 /**
 * main - for a bit of
 * Return: 0this
@@ -7,8 +6,6 @@
 */
 int main(void)
 {
-	char Str1[] = "Programming is like building a multilingual puzzle \n";
-
 	puts("\"Programming is like building a multilingual puzzle \n");
 	return (0);
 }
