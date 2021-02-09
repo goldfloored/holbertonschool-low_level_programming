@@ -1,4 +1,8 @@
 #include "holberton.h"
+/**
+* main - func
+* Return: value
+*/
 int main(void)
 {
 	_putchar('H');
