@@ -1,8 +1,8 @@
 #include <stdio.h>
  /**
- *main - main func
- *
- *Return: 0
+ * main - sum of odd functions
+ * Return: 0
+ * description: so hard
  */
 int main(void)
 {
