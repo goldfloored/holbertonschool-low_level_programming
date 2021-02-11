@@ -1,13 +1,23 @@
-#include "holberton.c"
-void underscore(void)
-{
-	
-}
-
+#include "holberton.h"
+/**
+*print_line - print lines according to int n
+*@n: function parameter
+*Return: Void
+*/
 void print_line(int n)
 {
-	if (n != 0)
+	int x;
+
+	if (n > 0)
 	{
-		
+		for (x = 0; x < n ; x++)
+		{
+			_putchar('_');
+		}
+		_putchar('\n');
+		}
+	else
+	{
+		_putchar('\n');
 	}
 }
