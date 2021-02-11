@@ -1,7 +1,12 @@
 #include "holberton.h"
 #include <stdlib.h>
 #include <stdio.h>
-void fizz_buzz(void)
+/**
+*main - main func
+*description - fizzbuzz me
+*Return: returns true
+*/
+int main(void)
 {
 	int x;
 
@@ -16,10 +21,7 @@ void fizz_buzz(void)
 		else
 			printf("%d", x);
 		printf(" ");
+
 	}
-}
-int main(void)
-{
-	fizz_buzz();
 	return (1);
 }

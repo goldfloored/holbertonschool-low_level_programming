@@ -1,4 +1,10 @@
 #include "holberton.h"
+/**
+*print_numbers - func to main
+*description - desbvooj
+*Return: nothing
+*/
+
 void print_numbers(void)
 {
 	int n;
