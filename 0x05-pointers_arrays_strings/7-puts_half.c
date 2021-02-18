@@ -1,16 +1,15 @@
 #include "holberton.h"
 /**
- * puts_half - prints the second part of the string
- * @str: reversed string
- * Return: void
- */
+* puts_half - print the second part of the string
+* @str: the string
+* Return: nothing
+*/
 void puts_half(char *str)
 {
 	int size = 0;
 
 	int i;
 
-	/* getting the whole length of string */
 	while (*(str + size) != 0)
 	{
 		size++;
