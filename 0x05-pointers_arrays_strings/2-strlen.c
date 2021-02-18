@@ -1,5 +1,4 @@
 #include "holberton.h"
-int _strlen(cahr *s)
 /**
  *_strlen - prints the length of a string
  *@s: pointer to the string
