@@ -7,6 +7,7 @@
 int pop_listint(listint_t **head)
 {
 	size_t save;
+
 	listint_t *tmp;
 
 	if (*head == NULL || head == NULL)
